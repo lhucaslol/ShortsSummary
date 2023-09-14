@@ -1,0 +1,11 @@
+# Resumo Automático de Vídeos YouTube Shorts
+
+Este projeto, desenvolvido em parceria com a empresa Rocketseat, utiliza inteligência artificial para realizar as seguintes etapas:
+
+1. **Extração de Áudio**: O projeto extrai o áudio dos vídeos do YouTube Shorts.
+
+2. **Transcrição de Áudio**: Utiliza tecnologias de transcrição de áudio para converter o conteúdo falado nos vídeos em texto.
+
+3. **Geração de Resumo**: Com base na transcrição, o projeto gera automaticamente um resumo escrito dos vídeos, destacando os pontos-chave e informações essenciais.
+
+Dessa forma, o projeto simplifica a tarefa de acessar informações importantes em vídeos do YouTube Shorts, economizando tempo e facilitando a compreensão do conteúdo.
